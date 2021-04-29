@@ -29,3 +29,11 @@ tornado==6.1
 traitlets==5.0.5
 urllib3==1.26.4
 wcwidth==0.2.5
+newspaper3k
+datetime
+nltk
+spacy
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.2.0+cpu
+pysentimiento
+scikit-learn
