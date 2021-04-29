@@ -48,6 +48,7 @@ with open("data/blacklist.txt") as b:
 belicas = belicas[~belicas["Titular"].isin(blacklist)]
 belicas.drop_duplicates(["Palabra", "Titular", "Diario"], inplace=True)
 belicas.sort_values(by="Fecha", inplace = True)
+noesunaguerra.drop_duplicates(["todo"], inplace=True)
 
 df1 = belicas.groupby(by=["Diario"])["Palabra"].nunique().reset_index()
 df2 = todos.groupby(by=["Diario"]).agg({
