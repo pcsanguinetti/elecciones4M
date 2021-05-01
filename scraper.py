@@ -50,7 +50,7 @@ belicas.drop_duplicates(["Palabra", "Titular", "Diario"], inplace=True)
 belicas.sort_values(by="Fecha", inplace = True)
 noesunaguerra.drop_duplicates(["todo"], inplace=True)
 
-df1 = belicas.groupby(by=["Diario"])["Palabra"].nunique().reset_index()
+df1 = belicas.groupby(by=["Diario"])["Palabra"].count().reset_index()
 df2 = todos.groupby(by=["Diario"]).agg({
     "Titular" : "count",
     "Pos" : "mean",
