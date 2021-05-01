@@ -13,162 +13,167 @@
 11,batalla,1,Podcast ‘La batalla por Madrid’,El País,2021-04-20
 12,dictadura,1,"La dirección de Casado pide en campaña a todos sus cargos que defiendan que el PSOE ""blanquea dictaduras""",eldiario.es,2021-04-20
 13,guerra,0,La guerra entre Más Madrid y Pablo Iglesias,El Confidencial,2021-04-20
-20,batalla,0,"Radiografía de Ángel Gabilondo, candidato del PSOE: amable pero sin carisma ante una batalla perdida",La Razón,2021-04-21
-19,ataque,0,Abascal valora defenderse al sufrir Vox un nuevo ataque,ABC,2021-04-21
-18,atacar,0,Sánchez ataca la campaña de Vox desde Andorra: «Es una bajeza inclasificable»,ABC,2021-04-21
-15,incendiar,0,Vox incendia la campaña en Madrid al señalar a 269 menores extranjeros,El Confidencial,2021-04-21
-16,ataque,0,Isabel Díaz Ayuso se enfrenta hoy a los ataques de todos los partidos en el único debate a seis,El Mundo,2021-04-21
-14,batalla,0,La pandemia y los mayores en residencias centran una dura batalla dialéctica entre los candidatos al 4-M,ABC,2021-04-21
-17,batalla,1,Podcast ‘La batalla por Madrid’ | Ep 3. Escuchando a Vallecas,El País,2021-04-21
+20,batalla,1,Podcast ‘La batalla por Madrid’ | Ep 3. Escuchando a Vallecas,El País,2021-04-21
+19,batalla,0,La pandemia y los mayores en residencias centran una dura batalla dialéctica entre los candidatos al 4-M,ABC,2021-04-21
+18,ataque,0,Isabel Díaz Ayuso se enfrenta hoy a los ataques de todos los partidos en el único debate a seis,El Mundo,2021-04-21
+15,ataque,0,Abascal valora defenderse al sufrir Vox un nuevo ataque,ABC,2021-04-21
+16,atacar,0,Sánchez ataca la campaña de Vox desde Andorra: «Es una bajeza inclasificable»,ABC,2021-04-21
+14,batalla,0,"Radiografía de Ángel Gabilondo, candidato del PSOE: amable pero sin carisma ante una batalla perdida",La Razón,2021-04-21
+17,incendiar,0,Vox incendia la campaña en Madrid al señalar a 269 menores extranjeros,El Confidencial,2021-04-21
 21,muerte,0,Marlaska y Pablo Iglesias denuncian una amenaza de muerte recibida en el Ministerio del Interior,El Mundo,2021-04-22
 22,ataque,0,Así fueron los ataques en el debate de las elecciones de Madrid,ABC,2021-04-22
 23,ataque,0,"Los datos del debate: quién se va por las ramas, los ataques y las interrupciones",El Confidencial,2021-04-22
 24,muerte,0,Iglesias y Marlaska reciben sendas amenazas de muerte con balas: “El tiempo de reírte de nosotros se terminó”,El País,2021-04-22
 25,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 4: Seis candidatos y un solo debate feroz,El País,2021-04-22
-34,nazi,0,Vox copia las técnicas de propaganda nazi,El País,2021-04-23
-39,secuestrar,0,Vox y UP secuestran la campaña y convierten el 4-M en un plebiscito sobre la democracia,El Confidencial,2021-04-23
-37,fascismo,0,Los mítines de PSOE y Unidas Podemos se convierten en alegatos contra el fascismo tras el plante de la izquierda a Vox,eldiario.es,2021-04-23
-36,violencia,1,"Ayuso carga contra Pablo Iglesias: ""No puede ser que aquellos que provocan la violencia luego se hagan los ofendidos""",eldiario.es,2021-04-23
-35,incendiar,0,Vox incendia la campaña al no condenar las amenazas a Iglesias: Unidas Podemos y Más Madrid no participarán en más debates con Monasterio,eldiario.es,2021-04-23
-33,violencia,1,"Elecciones Madrid Mitin tranquilo de Vox en Parla: «Condenamos toda la violencia, pero lo de Iglesias apesta a montaje»",ABC,2021-04-23
-38,muerte,0,"Pablo Iglesias, sobre las amenazas de muerte: ""Hoy son balas de cetme, mañana ya veremos""",eldiario.es,2021-04-23
-31,violencia,1,"Ayuso a Iglesias: ""Si quieres que condenen la violencia, aléjate de ella y no tontees con ETA""",El Español,2021-04-23
-30,responsable,1,"Calvo asegura que el Gobierno “no parará hasta encontrar a los responsables” de las amenazas a Marlaska, Gámez e Iglesias",El País,2021-04-23
-29,muerte,0,Pablo Iglesias abandona un debate porque Vox “no se cree” las amenazas de muerte y Rocío Monasterio le dice: “Lárguese”,La Razón,2021-04-23
-28,antifascista,1,La verdadera historia del intérprete de signos 'antifascista' que 'cortó' el discurso de Monasterio,El Español,2021-04-23
-27,muerte,0,Iglesias abandona un debate al poner en duda Monasterio que haya sido amenazado de muerte,El Español,2021-04-23
-32,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 5: De bares y cañas con unos guiris,El País,2021-04-23
-26,violencia,1,"Díaz Ayuso, sobre Iglesias: “No puede ser que quienes provocan la violencia luego se hagan los ofendidos”",El País,2021-04-23
-50,batalla,0,"El PSOE clama contra la ""equidistancia"" del PP y plantea el 4M como una batalla entre ""fascismo o democracia""",eldiario.es,2021-04-24
-49,fascismo,1,"El PSOE clama contra la ""equidistancia"" del PP y plantea el 4M como una batalla entre ""fascismo o democracia""",eldiario.es,2021-04-24
-48,dinamita,0,Elecciones en Madrid: El choque Iglesias-Vox dinamita la campaña,La Razón,2021-04-24
-47,dinamitir,0,Vox dinamita la campaña: se suspenden todos los debates y sus mítines se convierten en un polvorín,El Español,2021-04-24
-46,polvorín,0,Vox dinamita la campaña: se suspenden todos los debates y sus mítines se convierten en un polvorín,El Español,2021-04-24
+34,responsable,1,"Calvo asegura que el Gobierno “no parará hasta encontrar a los responsables” de las amenazas a Marlaska, Gámez e Iglesias",El País,2021-04-23
+39,violencia,1,"Díaz Ayuso, sobre Iglesias: “No puede ser que quienes provocan la violencia luego se hagan los ofendidos”",El País,2021-04-23
+37,muerte,0,Iglesias abandona un debate al poner en duda Monasterio que haya sido amenazado de muerte,El Español,2021-04-23
+36,antifascista,1,La verdadera historia del intérprete de signos 'antifascista' que 'cortó' el discurso de Monasterio,El Español,2021-04-23
+35,muerte,0,Pablo Iglesias abandona un debate porque Vox “no se cree” las amenazas de muerte y Rocío Monasterio le dice: “Lárguese”,La Razón,2021-04-23
+33,violencia,1,"Ayuso a Iglesias: ""Si quieres que condenen la violencia, aléjate de ella y no tontees con ETA""",El Español,2021-04-23
+38,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 5: De bares y cañas con unos guiris,El País,2021-04-23
+31,violencia,1,"Elecciones Madrid Mitin tranquilo de Vox en Parla: «Condenamos toda la violencia, pero lo de Iglesias apesta a montaje»",ABC,2021-04-23
+30,incendiar,0,Vox incendia la campaña al no condenar las amenazas a Iglesias: Unidas Podemos y Más Madrid no participarán en más debates con Monasterio,eldiario.es,2021-04-23
+29,violencia,1,"Ayuso carga contra Pablo Iglesias: ""No puede ser que aquellos que provocan la violencia luego se hagan los ofendidos""",eldiario.es,2021-04-23
+28,fascismo,0,Los mítines de PSOE y Unidas Podemos se convierten en alegatos contra el fascismo tras el plante de la izquierda a Vox,eldiario.es,2021-04-23
+27,secuestrar,0,Vox y UP secuestran la campaña y convierten el 4-M en un plebiscito sobre la democracia,El Confidencial,2021-04-23
+32,muerte,0,"Pablo Iglesias, sobre las amenazas de muerte: ""Hoy son balas de cetme, mañana ya veremos""",eldiario.es,2021-04-23
+26,nazi,0,Vox copia las técnicas de propaganda nazi,El País,2021-04-23
+50,fascismo,1,"El clic de abril: de ""socialismo o libertad"" a ""democracia o fascismo""",El Mundo,2021-04-24
+49,guerra,1,"Ayuso pide no caer ""en guerras estériles"" el 4M mientras Casado acusa a la izquierda de ""resucitar al dóberman""",eldiario.es,2021-04-24
+48,combate,1,"Illa cree que en Madrid se está produciendo ""un combate entre democracia y fascismo""",El Español,2021-04-24
+47,muerte,0,Gabilondo acusa al PP de 'equidistancia' al condenar las amenazas de muerte contra Iglesias y Marlaska,El Español,2021-04-24
+46,fascismo,1,"Illa cree que en Madrid se está produciendo ""un combate entre democracia y fascismo""",El Español,2021-04-24
 45,fascismo,0,"Colau pide no normalizar el fascismo y apoya a Iglesias ante ""las amenazas de la extrema derecha""",eldiario.es,2021-04-24
-44,fascismo,1,"Illa cree que en Madrid se está produciendo ""un combate entre democracia y fascismo""",El Español,2021-04-24
-43,muerte,0,Gabilondo acusa al PP de 'equidistancia' al condenar las amenazas de muerte contra Iglesias y Marlaska,El Español,2021-04-24
-42,combate,1,"Illa cree que en Madrid se está produciendo ""un combate entre democracia y fascismo""",El Español,2021-04-24
-41,guerra,1,"Ayuso pide no caer ""en guerras estériles"" el 4M mientras Casado acusa a la izquierda de ""resucitar al dóberman""",eldiario.es,2021-04-24
-40,fascismo,1,"El clic de abril: de ""socialismo o libertad"" a ""democracia o fascismo""",El Mundo,2021-04-24
-63,fascismo,1,"Bal rechaza el mensaje ""binario"" de 'democracia o fascismo': ""No sólo hay buenos y malos en Madrid""",El Español,2021-04-25
-62,Antifascismo,0,Antifascismo y claveles: Iglesias viaja al siglo XX para remontar en la segunda semana de la campaña,La Razón,2021-04-25
-61,Criminal,1,Grande-Marlaska llama al PP “organización criminal” y Pablo Casado le responde: “Criminal son los etarras que acerca”,La Razón,2021-04-25
-64,criminal,1,Grande-Marlaska llama al PP “organización criminal” y Pablo Casado le responde: “Criminal son los etarras que acerca”,La Razón,2021-04-25
-60,fascista,1,Gabilondo: “El 4-M va de defender las libertades frente a una reivindicación fascista”,El País,2021-04-25
-59,fascismo,1,"Última hora de las elecciones en Madrid, en directo | Montero defiende el “pie en la pared” de Iglesias ante Vox y reclama: “Al fascismo ni agua”",El País,2021-04-25
-58,arremetir,0,"Pedro Sánchez arremete contra Vox desde una zona confinada: ""El viernes cruzó una línea y será la última que cruce""",El Mundo,2021-04-25
-54,arremete,0,"Pedro Sánchez arremete contra Vox desde una zona confinada: ""El viernes cruzó una línea y será la última que cruce""",El Mundo,2021-04-25
-56,Antifascismo,0,Antifascismo y claves: Iglesias viaja al siglo XX para remontar en la segunda semana de la campaña,La Razón,2021-04-25
-55,violencia,0,La manipulación de la violencia en campaña,La Razón,2021-04-25
-53,fuego,0,Quien con fuego juega..,El País,2021-04-25
-52,etarra,1,Grande-Marlaska llama al PP “organización criminal” y Pablo Casado le responde: “Criminal son los etarras que acerca”,La Razón,2021-04-25
-51,fascismo,1,La izquierda reinventa la campaña: “Ya va de democracia o fascismo”,El País,2021-04-25
-57,criminal,1,"El PP pide la dimisión de Marlaska por tachar al partido de ""organización criminal""",El Mundo,2021-04-25
-79,criminal,1,De Púnica al ‘caso Pujol’: el concepto de “organización criminal” con el que Grande-Marlaska se refirió al PP,El País,2021-04-26
-80,ataque,0,Contundente respuesta de Figo a Pablo Iglesias después de su ataque a Ana Rosa Quintana,La Razón,2021-04-26
-81,ensangrentado,1,"Interior investiga el envío de una navaja ""aparentemente ensangrentada"" a Maroto",El Confidencial,2021-04-26
-82,antifascista,1,"Pablo Iglesias se jacta de haber arrastrado a Pedro Sánchez a sus posiciones ""antifascistas""",El Español,2021-04-26
-83,agresión,0,Casado rechaza todas las amenazas y agresiones en la campaña y llama a salir de la radicalidad,ABC,2021-04-26
-87,muerte,1,"Maroto: ""Los demócratas estamos amenazados de muerte si no paramos a Vox en las urnas""",El Español,2021-04-26
-85,ensangrentado,0,La ministra Reyes Maroto recibe una carta con una navaja aparentemente ensangrentada,El País,2021-04-26
-88,ensangrentado,1,La ministra Reyes Maroto recibe una carta con una navaja “aparentemente ensangrentada”,La Razón,2021-04-26
-89,ensangrentado,0,La ministra Reyes Maroto recibe un sobre con una navaja ensangrentada,El Español,2021-04-26
-78,muerte,0,Las amenazas de muerte a Iglesias y miembros del Gobierno acaparan todos los focos de la campaña,eldiario.es,2021-04-26
-84,fascismo,1,"Última hora de las elecciones en Madrid, en directo | Gabilondo anuncia “un cordón sanitario” contra Vox: “Entre fascismo y antifascismo no hay neutralidad. Hay que elegir”",El País,2021-04-26
-77,comunismo,0,Sánchez y Ayuso radicalizan la campaña combatiendo a fascismo y comunismo,El Español,2021-04-26
-86,criminal,1,El PP sale en tromba para exigir la dimisión de Marlaska tras llamar a ese partido «organización criminal»,ABC,2021-04-26
-75,antifascismo,1,"Última hora de las elecciones en Madrid, en directo | Gabilondo anuncia “un cordón sanitario” contra Vox: “Entre fascismo y antifascismo no hay neutralidad. Hay que elegir”",El País,2021-04-26
-76,fascismo,0,Fascismo en campaña,eldiario.es,2021-04-26
-65,fascismo,0,Sánchez y Ayuso radicalizan la campaña combatiendo a fascismo y comunismo,El Español,2021-04-26
-66,ensangrentado,0,La ministra Reyes Maroto recibe un sobre con una navaja ensangrentada,eldiario.es,2021-04-26
-68,ensangrentado,0,"Un hombre con problemas mentales envió el sobre con la navaja ensangrentada a Reyes Maroto, según la Policía",El Mundo,2021-04-26
-69,ensangrentada,0,"Un hombre con problemas mentales envió el sobre con la navaja ensangrentada a Reyes Maroto, según la Policía",El Mundo,2021-04-26
-67,muerte,1,"La ministra Maroto, tras denunciar en comisaría: ""Todos los demócratas estamos amenazados de muerte si no paramos a Vox en las urnas""",eldiario.es,2021-04-26
-71,criminal,1,Elecciones Madrid Ayuso califica de «deleznables» las acusaciones de «organización criminal» de Marlaska contra el PP,ABC,2021-04-26
-72,combatir,0,Sánchez y Ayuso radicalizan la campaña combatiendo a fascismo y comunismo,El Español,2021-04-26
-73,criminal,1,"Gabilondo defiende las palabras de Marlaska en las que calificó al PP de ""organización criminal""",El Mundo,2021-04-26
-74,ensangrentado,0,Amenaza a Reyes Maroto: recibe un sobre con una navaja ensangrentada en la sede del Ministerio,ABC,2021-04-26
-70,batalla,1,"Podcast ‘La batalla por Madrid’ | Ep. 6: Tú amenazas, yo provoco, ellos blanquean",El País,2021-04-26
-111,cuchillo,0,"La izquierda se aferra a la ""amenaza fascista"" pese a que el cuchillo a Maroto lo envió un esquizofrénico",El Español,2021-04-27
-117,fascismo,0,"No, no era el fascismo",El Español,2021-04-27
-112,guerra,0,Libertad e igualdad: las guerras culturales que pasan por las aulas,El Mundo,2021-04-27
-113,ataque,1,"Almeida acusa a PSOE y Más Madrid de ""legitimar los ataques a Vox"" mientras ""revientan la campaña"" con ""un clima de confrontación""",El Mundo,2021-04-27
-114,batalla,0,Elecciones Madrid La burbuja de las redes sociales en la batalla de Sol: más agitación que influencia y votos,ABC,2021-04-27
-115,fascismo,1,"Iglesias: ""El fascismo y los discursos del odio son un mecanismo para que no cambien las cosas""",eldiario.es,2021-04-27
-116,violencia,0,"Almeida acusa a PSOE de ""legitimar los ataques a Vox"" y los socialistas responden que ""siempre"" han condenado la violencia",El Mundo,2021-04-27
-118,violencia,0,El «doble rasero» del PSOE para condenar la violencia crispa Cibeles,ABC,2021-04-27
-124,violencia,0,"Abascal niega que a Vox le beneficie la violencia: «Beneficia a la izquierda, por eso la perpetra»",ABC,2021-04-27
-120,violencia,0,"La violencia, rechazo y aprovechamiento",ABC,2021-04-27
-121,fascismo,0,Fascismo o democracia,ABC,2021-04-27
-122,blindir,0,Europa se blinda frente a la variante india de la covid mientras España espera,La Razón,2021-04-27
-123,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 7: En el epicentro de la salud pública,El País,2021-04-27
-110,desangro,0,Más Madrid desangra al PSOE y le roba ya más de 85.000 votos,El Mundo,2021-04-27
-126,violencia,0,Cs y Vox abandonan el pleno de Madrid y acusan a la izquierda de no condenar la violencia,El Confidencial,2021-04-27
-127,fascista,1,"La izquierda se aferra a la ""amenaza fascista"" pese a que el cuchillo a Maroto lo envió un esquizofrénico",El Español,2021-04-27
-119,muerte,0,"Pablo Iglesias afea que la Casa Real ""no haya condenado"" las amenazas de muerte recibidas",El Español,2021-04-27
-109,ataque,0,Vox cifra en 200 los ataques sufridos en campaña,La Razón,2021-04-27
-125,ataque,1,"Almeida acusa a PSOE de ""legitimar los ataques a Vox"" y los socialistas responden que ""siempre"" han condenado la violencia",El Mundo,2021-04-27
-107,fulminar,0,Madrid fulmina a la izquierda,ABC,2021-04-27
-108,guerras,0,Libertad e igualdad: las guerras culturales que pasan por las aulas,El Mundo,2021-04-27
-90,fascista,1,Iglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
-91,agresividad,0,Ni siquiera la agresividad de Vox sirve para dar un vuelco a la izquierda a la campaña,El Español,2021-04-27
-92,ataque,1,Almeida acusa a la izquierda de «doble rasero» y de «legitimar el ataque» a Vox en Vallecas,ABC,2021-04-27
-94,violencia,1,"Abascal: «La violencia no le conviene a Vox, beneficia a la izquierda, por eso la perpetra»",ABC,2021-04-27
-95,explotar,0,La izquierda se divide sobre la conveniencia de explotar las amenazas como munición para el 4-M,ABC,2021-04-27
-96,desangra,0,Más Madrid desangra al PSOE y le roba ya más de 85.000 votos,El Mundo,2021-04-27
-97,atacar,1,Rocío Monasterio carga contra Reyes Maroto: “Ha sido tremendamente imprudente al atacar a Vox”,La Razón,2021-04-27
-93,comunismo,0,"Fascismo no, comunismo tampoco",La Razón,2021-04-27
-99,nazi,1,"La amenaza que recibió una candidata de Vox el mismo día que Pablo Iglesias: “Nazi, te vamos a reventar”",La Razón,2021-04-27
-100,ataques,1,"Almeida acusa a PSOE de ""legitimar los ataques a Vox"" y los socialistas responden que ""siempre"" han condenado la violencia",El Mundo,2021-04-27
-101,fascista,1,Ìglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
-102,munición,0,La izquierda se divide sobre la conveniencia de explotar las amenazas como munición para el 4-M,ABC,2021-04-27
-106,fulmina,0,Madrid fulmina a la izquierda,ABC,2021-04-27
-103,fascismo,1,"Pablo Iglesias: ""El fascismo y los discursos del odio son un mecanismo para que no cambien las cosas""",eldiario.es,2021-04-27
-104,Fascismo,0,"Fascismo no, comunismo tampoco",La Razón,2021-04-27
-105,violencia,1,Iglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
-98,violencia,1,Ìglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
-141,muerte,0,Nuevos envíos de amenazas de muerte con balas sacuden la recta final de la campaña,eldiario.es,2021-04-28
-142,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 8: El factor Venezuela,El País,2021-04-28
-143,ensangrentado,0,Denuncian ante la Fiscalía la venta de camisetas con la imagen de Pablo Iglesias ensangrentado,La Razón,2021-04-28
-147,batalla,0,"La batalla en la ciudad: PP, Vox y Cs tienen una ventaja de casi 10 puntos",La Razón,2021-04-28
-145,muerto,1,"Denunciada una tienda por vender camisetas con el rostro de Pablo Iglesias ensangrentado, con una diana en la cabeza o el texto: ""Se busca vivo o muerto""",eldiario.es,2021-04-28
-146,violencia,0,"Bal pide al resto de candidatos un pacto por el ""respeto y la conciliación"" frente a la violencia",El Español,2021-04-28
-148,fascismo,0,Todo es fascismo,El Mundo,2021-04-28
-139,fascismo,0,Al fascismo se le destruye en las urnas,El País,2021-04-28
-144,ensangrentado,0,"Una web vende camisetas con Iglesias en una diana y ensangrentado: ""Se busca vivo o muerto""",El Español,2021-04-28
-138,muerte,0,La Guardia Civil intercepta una carta con varios proyectiles y una amenaza de muerte dirigida a Pablo Iglesias,El Mundo,2021-04-28
-140,violencia,0,Edmundo Bal envía una carta a los otros cinco candidatos para que firmen un pacto contra la violencia,ABC,2021-04-28
-136,batalla,1,‘Podcast’ ‘La batalla por Madrid’ | Ep. 8: El ‘factor Venezuela’,El País,2021-04-28
-135,fascista,1,"«Estás muerta» y «fascista», las amenazas que recibía Ayuso en la carta",ABC,2021-04-28
-134,muerto,1,"Una web vende camisetas con Iglesias en una diana y ensangrentado: ""Se busca vivo o muerto""",El Español,2021-04-28
-133,Holocausto,1,Elecciones Madrid El uso de 'nazismo' y 'Holocausto' en la campaña electoral: lo que piensa la comunidad judía,ABC,2021-04-28
-132,violencia,0,Edmundo Bal lanza un manifiesto al resto de candidatos para condenar la violencia y renunciar a la crispación,El Mundo,2021-04-28
-131,ensangrentado,0,"Denunciada una tienda por vender camisetas con el rostro de Pablo Iglesias ensangrentado, con una diana en la cabeza o el texto: ""Se busca vivo o muerto""",eldiario.es,2021-04-28
-130,holocausto,1,Elecciones Madrid El uso de 'nazismo' y 'Holocausto' en la campaña electoral: lo que piensa la comunidad judía,ABC,2021-04-28
-129,muerte,0,Pablo Iglesias recibe en la sede de la Guardia Civil otra carta con proyectiles y una amenaza de muerte,El Español,2021-04-28
-128,nazismo,1,Elecciones Madrid El uso de 'nazismo' y 'Holocausto' en la campaña electoral: lo que piensa la comunidad judía,ABC,2021-04-28
-137,muerta,1,"«Estás muerta» y «fascista», las amenazas que recibía Ayuso en la carta",ABC,2021-04-28
-157,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 9: ¿Es Madrid un paraíso fiscal?,El País,2021-04-29
-156,terrorismo,0,Pablo Echenique acusa a Ayuso de “justificar” el terrorismo al decir que Iglesias “nació del mal para hacer el mal”,La Razón,2021-04-29
-154,fascista,1,"""Traidor, amargada, rata, fascista"": Cs despliega una lona y pide que vuelva ""el Madrid de la concordia""",El Español,2021-04-29
-153,lucha,0,El PSOE da otro bandazo en la campaña y Gabilondo ya sólo lucha por el liderazgo de la izquierda,El Español,2021-04-29
-155,criminal,1,Falsedades y medias verdades en campaña | De la inexistente condena al PP por ‘organización criminal’ al supuesto mejor hospital de pandemias del mundo,El País,2021-04-29
-151,golpe,0,"Iglesias encaja otro golpe de hemeroteca: «No hay que lloriquear por las amenazas», decía en 2019",ABC,2021-04-29
-150,franco,0,La Fundación Franco cuenta con Vox para evitar su ilegalización,La Razón,2021-04-29
-149,luchar,0,El PSOE da otro bandazo en la campaña y Gabilondo ya sólo lucha por el liderazgo de la izquierda,El Español,2021-04-29
-152,dispara,0,La celebración del Dos de Mayo como colofón de la campaña electoral dispara la tensión entre los partidos,El País,2021-04-29
-185,franquismo,0,Iglesias equipara la libertad que pide Ayuso con la época del franquismo,La Razón,2021-04-30
-168,golpe,0,"Ayuso, de motera y a golpe de rock, publica un nuevo vídeo electoral: «Seguiremos peleando porque sois los mejores»",ABC,2021-04-30
-167,disparan,0,Las excusas para no acudir a una mesa electoral en las elecciones en Madrid se disparan un 43%,La Razón,2021-04-30
-166,comunistas,0,Falsedades y medias verdades en campaña | De las mentiras del voto por correo de Vox al bulo sobre las dictaduras comunistas,El País,2021-04-30
-165,dictaduras,0,Falsedades y medias verdades en campaña | De las mentiras del voto por correo de Vox al bulo sobre las dictaduras comunistas,El País,2021-04-30
-164,franquista,0,Elecciones Madrid | Ábalos compara el Madrid de Ayuso con el régimen franquista,El Confidencial,2021-04-30
-163,régimen,0,Elecciones Madrid | Ábalos compara el Madrid de Ayuso con el régimen franquista,El Confidencial,2021-04-30
-161,sacrificio,1,El Madrid de Rocío Monasterio: «Hablo con mis hijos de política; les digo que el sacrificio vale la pena»,La Razón,2021-04-30
-160,lucha,0,‘Podcast’ ‘La batalla por Madrid’ | Ep. 10: Lucha de gigantes,El País,2021-04-30
-159,batalla,1,‘Podcast’ ‘La batalla por Madrid’ | Ep. 10: Lucha de gigantes,El País,2021-04-30
-158,arremete,0,"Ábalos arremete contra Ayuso por sus ""ocurrencias alocadas"" y por mantener ""una relación impúdica con la ultraderecha""",El Mundo,2021-04-30
-188,dictadura,1,"Ábalos compara a Ayuso con Franco y dice que Madrid ""es lo más parecido a una dictadura""",El Español,2021-04-30
-162,lucha,0,La lucha por el voto de Ciudadanos: en estos 13 distritos y 10 municipios se juega el destino de Madrid,El Español,2021-04-30
-189,franco,0,"Ábalos compara a Ayuso con Franco y dice que Madrid ""es lo más parecido a una dictadura""",El Español,2021-04-30
-172,muertos,0,"Así fue el tapón a las residencias de mayores de Madrid, hospital por hospital: el 73% de muertos no fue trasladado",El País,2021-05-01
+44,polvorín,0,Vox dinamita la campaña: se suspenden todos los debates y sus mítines se convierten en un polvorín,El Español,2021-04-24
+43,dinamitir,0,Vox dinamita la campaña: se suspenden todos los debates y sus mítines se convierten en un polvorín,El Español,2021-04-24
+42,dinamita,0,Elecciones en Madrid: El choque Iglesias-Vox dinamita la campaña,La Razón,2021-04-24
+41,fascismo,1,"El PSOE clama contra la ""equidistancia"" del PP y plantea el 4M como una batalla entre ""fascismo o democracia""",eldiario.es,2021-04-24
+40,batalla,0,"El PSOE clama contra la ""equidistancia"" del PP y plantea el 4M como una batalla entre ""fascismo o democracia""",eldiario.es,2021-04-24
+63,fascismo,1,La izquierda reinventa la campaña: “Ya va de democracia o fascismo”,El País,2021-04-25
+62,etarra,1,Grande-Marlaska llama al PP “organización criminal” y Pablo Casado le responde: “Criminal son los etarras que acerca”,La Razón,2021-04-25
+61,fuego,0,Quien con fuego juega..,El País,2021-04-25
+64,criminal,1,"El PP pide la dimisión de Marlaska por tachar al partido de ""organización criminal""",El Mundo,2021-04-25
+60,violencia,0,La manipulación de la violencia en campaña,La Razón,2021-04-25
+59,Antifascismo,0,Antifascismo y claves: Iglesias viaja al siglo XX para remontar en la segunda semana de la campaña,La Razón,2021-04-25
+58,arremete,0,"Pedro Sánchez arremete contra Vox desde una zona confinada: ""El viernes cruzó una línea y será la última que cruce""",El Mundo,2021-04-25
+54,criminal,1,Grande-Marlaska llama al PP “organización criminal” y Pablo Casado le responde: “Criminal son los etarras que acerca”,La Razón,2021-04-25
+56,fascismo,1,"Última hora de las elecciones en Madrid, en directo | Montero defiende el “pie en la pared” de Iglesias ante Vox y reclama: “Al fascismo ni agua”",El País,2021-04-25
+55,fascista,1,Gabilondo: “El 4-M va de defender las libertades frente a una reivindicación fascista”,El País,2021-04-25
+53,Criminal,1,Grande-Marlaska llama al PP “organización criminal” y Pablo Casado le responde: “Criminal son los etarras que acerca”,La Razón,2021-04-25
+52,Antifascismo,0,Antifascismo y claveles: Iglesias viaja al siglo XX para remontar en la segunda semana de la campaña,La Razón,2021-04-25
+51,fascismo,1,"Bal rechaza el mensaje ""binario"" de 'democracia o fascismo': ""No sólo hay buenos y malos en Madrid""",El Español,2021-04-25
+57,arremetir,0,"Pedro Sánchez arremete contra Vox desde una zona confinada: ""El viernes cruzó una línea y será la última que cruce""",El Mundo,2021-04-25
+79,fascismo,0,Fascismo en campaña,eldiario.es,2021-04-26
+80,fascismo,0,Sánchez y Ayuso radicalizan la campaña combatiendo a fascismo y comunismo,El Español,2021-04-26
+81,ensangrentado,0,La ministra Reyes Maroto recibe un sobre con una navaja ensangrentada,eldiario.es,2021-04-26
+82,ensangrentado,0,"Un hombre con problemas mentales envió el sobre con la navaja ensangrentada a Reyes Maroto, según la Policía",El Mundo,2021-04-26
+83,ensangrentada,0,"Un hombre con problemas mentales envió el sobre con la navaja ensangrentada a Reyes Maroto, según la Policía",El Mundo,2021-04-26
+86,combatir,0,Sánchez y Ayuso radicalizan la campaña combatiendo a fascismo y comunismo,El Español,2021-04-26
+85,criminal,1,Elecciones Madrid Ayuso califica de «deleznables» las acusaciones de «organización criminal» de Marlaska contra el PP,ABC,2021-04-26
+87,criminal,1,"Gabilondo defiende las palabras de Marlaska en las que calificó al PP de ""organización criminal""",El Mundo,2021-04-26
+89,batalla,1,"Podcast ‘La batalla por Madrid’ | Ep. 6: Tú amenazas, yo provoco, ellos blanquean",El País,2021-04-26
+78,antifascismo,1,"Última hora de las elecciones en Madrid, en directo | Gabilondo anuncia “un cordón sanitario” contra Vox: “Entre fascismo y antifascismo no hay neutralidad. Hay que elegir”",El País,2021-04-26
+84,muerte,1,"La ministra Maroto, tras denunciar en comisaría: ""Todos los demócratas estamos amenazados de muerte si no paramos a Vox en las urnas""",eldiario.es,2021-04-26
+77,criminal,1,El PP sale en tromba para exigir la dimisión de Marlaska tras llamar a ese partido «organización criminal»,ABC,2021-04-26
+88,ensangrentado,0,Amenaza a Reyes Maroto: recibe un sobre con una navaja ensangrentada en la sede del Ministerio,ABC,2021-04-26
+75,fascismo,1,"Última hora de las elecciones en Madrid, en directo | Gabilondo anuncia “un cordón sanitario” contra Vox: “Entre fascismo y antifascismo no hay neutralidad. Hay que elegir”",El País,2021-04-26
+65,criminal,1,De Púnica al ‘caso Pujol’: el concepto de “organización criminal” con el que Grande-Marlaska se refirió al PP,El País,2021-04-26
+76,comunismo,0,Sánchez y Ayuso radicalizan la campaña combatiendo a fascismo y comunismo,El Español,2021-04-26
+67,ensangrentado,1,"Interior investiga el envío de una navaja ""aparentemente ensangrentada"" a Maroto",El Confidencial,2021-04-26
+68,antifascista,1,"Pablo Iglesias se jacta de haber arrastrado a Pedro Sánchez a sus posiciones ""antifascistas""",El Español,2021-04-26
+69,agresión,0,Casado rechaza todas las amenazas y agresiones en la campaña y llama a salir de la radicalidad,ABC,2021-04-26
+66,ataque,0,Contundente respuesta de Figo a Pablo Iglesias después de su ataque a Ana Rosa Quintana,La Razón,2021-04-26
+71,ensangrentado,0,La ministra Reyes Maroto recibe una carta con una navaja aparentemente ensangrentada,El País,2021-04-26
+72,ensangrentado,1,La ministra Reyes Maroto recibe una carta con una navaja “aparentemente ensangrentada”,La Razón,2021-04-26
+73,ensangrentado,0,La ministra Reyes Maroto recibe un sobre con una navaja ensangrentada,El Español,2021-04-26
+74,muerte,0,Las amenazas de muerte a Iglesias y miembros del Gobierno acaparan todos los focos de la campaña,eldiario.es,2021-04-26
+70,muerte,1,"Maroto: ""Los demócratas estamos amenazados de muerte si no paramos a Vox en las urnas""",El Español,2021-04-26
+117,atacar,1,Rocío Monasterio carga contra Reyes Maroto: “Ha sido tremendamente imprudente al atacar a Vox”,La Razón,2021-04-27
+111,fascista,1,Iglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
+112,agresividad,0,Ni siquiera la agresividad de Vox sirve para dar un vuelco a la izquierda a la campaña,El Español,2021-04-27
+113,ataque,1,Almeida acusa a la izquierda de «doble rasero» y de «legitimar el ataque» a Vox en Vallecas,ABC,2021-04-27
+114,violencia,1,"Abascal: «La violencia no le conviene a Vox, beneficia a la izquierda, por eso la perpetra»",ABC,2021-04-27
+115,explotar,0,La izquierda se divide sobre la conveniencia de explotar las amenazas como munición para el 4-M,ABC,2021-04-27
+116,desangra,0,Más Madrid desangra al PSOE y le roba ya más de 85.000 votos,El Mundo,2021-04-27
+118,comunismo,0,"Fascismo no, comunismo tampoco",La Razón,2021-04-27
+124,fascismo,1,"Pablo Iglesias: ""El fascismo y los discursos del odio son un mecanismo para que no cambien las cosas""",eldiario.es,2021-04-27
+120,ataques,1,"Almeida acusa a PSOE de ""legitimar los ataques a Vox"" y los socialistas responden que ""siempre"" han condenado la violencia",El Mundo,2021-04-27
+121,fascista,1,Ìglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
+122,munición,0,La izquierda se divide sobre la conveniencia de explotar las amenazas como munición para el 4-M,ABC,2021-04-27
+123,fulmina,0,Madrid fulmina a la izquierda,ABC,2021-04-27
+110,guerras,0,Libertad e igualdad: las guerras culturales que pasan por las aulas,El Mundo,2021-04-27
+125,Fascismo,0,"Fascismo no, comunismo tampoco",La Razón,2021-04-27
+126,violencia,1,Iglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
+119,nazi,1,"La amenaza que recibió una candidata de Vox el mismo día que Pablo Iglesias: “Nazi, te vamos a reventar”",La Razón,2021-04-27
+109,fulminar,0,Madrid fulmina a la izquierda,ABC,2021-04-27
+127,violencia,1,Ìglesias mete a la Corona en campaña por no condenar la “violencia fascista”,La Razón,2021-04-27
+107,ataque,0,Vox cifra en 200 los ataques sufridos en campaña,La Razón,2021-04-27
+108,ataque,1,"Almeida acusa a PSOE de ""legitimar los ataques a Vox"" y los socialistas responden que ""siempre"" han condenado la violencia",El Mundo,2021-04-27
+90,cuchillo,0,"La izquierda se aferra a la ""amenaza fascista"" pese a que el cuchillo a Maroto lo envió un esquizofrénico",El Español,2021-04-27
+91,fascismo,0,"No, no era el fascismo",El Español,2021-04-27
+92,guerra,0,Libertad e igualdad: las guerras culturales que pasan por las aulas,El Mundo,2021-04-27
+94,batalla,0,Elecciones Madrid La burbuja de las redes sociales en la batalla de Sol: más agitación que influencia y votos,ABC,2021-04-27
+95,fascismo,1,"Iglesias: ""El fascismo y los discursos del odio son un mecanismo para que no cambien las cosas""",eldiario.es,2021-04-27
+96,violencia,0,"Almeida acusa a PSOE de ""legitimar los ataques a Vox"" y los socialistas responden que ""siempre"" han condenado la violencia",El Mundo,2021-04-27
+97,violencia,0,El «doble rasero» del PSOE para condenar la violencia crispa Cibeles,ABC,2021-04-27
+93,ataque,1,"Almeida acusa a PSOE y Más Madrid de ""legitimar los ataques a Vox"" mientras ""revientan la campaña"" con ""un clima de confrontación""",El Mundo,2021-04-27
+99,violencia,0,"La violencia, rechazo y aprovechamiento",ABC,2021-04-27
+100,fascismo,0,Fascismo o democracia,ABC,2021-04-27
+101,blindir,0,Europa se blinda frente a la variante india de la covid mientras España espera,La Razón,2021-04-27
+102,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 7: En el epicentro de la salud pública,El País,2021-04-27
+103,desangro,0,Más Madrid desangra al PSOE y le roba ya más de 85.000 votos,El Mundo,2021-04-27
+104,violencia,0,Cs y Vox abandonan el pleno de Madrid y acusan a la izquierda de no condenar la violencia,El Confidencial,2021-04-27
+105,fascista,1,"La izquierda se aferra a la ""amenaza fascista"" pese a que el cuchillo a Maroto lo envió un esquizofrénico",El Español,2021-04-27
+98,violencia,0,"Abascal niega que a Vox le beneficie la violencia: «Beneficia a la izquierda, por eso la perpetra»",ABC,2021-04-27
+106,muerte,0,"Pablo Iglesias afea que la Casa Real ""no haya condenado"" las amenazas de muerte recibidas",El Español,2021-04-27
+140,fascista,1,"«Estás muerta» y «fascista», las amenazas que recibía Ayuso en la carta",ABC,2021-04-28
+141,muerto,1,"Una web vende camisetas con Iglesias en una diana y ensangrentado: ""Se busca vivo o muerto""",El Español,2021-04-28
+142,Holocausto,1,Elecciones Madrid El uso de 'nazismo' y 'Holocausto' en la campaña electoral: lo que piensa la comunidad judía,ABC,2021-04-28
+147,nazismo,1,Elecciones Madrid El uso de 'nazismo' y 'Holocausto' en la campaña electoral: lo que piensa la comunidad judía,ABC,2021-04-28
+145,holocausto,1,Elecciones Madrid El uso de 'nazismo' y 'Holocausto' en la campaña electoral: lo que piensa la comunidad judía,ABC,2021-04-28
+146,muerte,0,Pablo Iglesias recibe en la sede de la Guardia Civil otra carta con proyectiles y una amenaza de muerte,El Español,2021-04-28
+148,muerta,1,"«Estás muerta» y «fascista», las amenazas que recibía Ayuso en la carta",ABC,2021-04-28
+139,batalla,1,‘Podcast’ ‘La batalla por Madrid’ | Ep. 8: El ‘factor Venezuela’,El País,2021-04-28
+144,ensangrentado,0,"Denunciada una tienda por vender camisetas con el rostro de Pablo Iglesias ensangrentado, con una diana en la cabeza o el texto: ""Se busca vivo o muerto""",eldiario.es,2021-04-28
+138,violencia,0,Edmundo Bal envía una carta a los otros cinco candidatos para que firmen un pacto contra la violencia,ABC,2021-04-28
+143,violencia,0,Edmundo Bal lanza un manifiesto al resto de candidatos para condenar la violencia y renunciar a la crispación,El Mundo,2021-04-28
+136,ensangrentado,0,"Una web vende camisetas con Iglesias en una diana y ensangrentado: ""Se busca vivo o muerto""",El Español,2021-04-28
+135,fascismo,0,Al fascismo se le destruye en las urnas,El País,2021-04-28
+134,fascismo,0,Todo es fascismo,El Mundo,2021-04-28
+133,violencia,0,"Bal pide al resto de candidatos un pacto por el ""respeto y la conciliación"" frente a la violencia",El Español,2021-04-28
+132,muerto,1,"Denunciada una tienda por vender camisetas con el rostro de Pablo Iglesias ensangrentado, con una diana en la cabeza o el texto: ""Se busca vivo o muerto""",eldiario.es,2021-04-28
+131,batalla,0,"La batalla en la ciudad: PP, Vox y Cs tienen una ventaja de casi 10 puntos",La Razón,2021-04-28
+130,ensangrentado,0,Denuncian ante la Fiscalía la venta de camisetas con la imagen de Pablo Iglesias ensangrentado,La Razón,2021-04-28
+129,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 8: El factor Venezuela,El País,2021-04-28
+128,muerte,0,Nuevos envíos de amenazas de muerte con balas sacuden la recta final de la campaña,eldiario.es,2021-04-28
+137,muerte,0,La Guardia Civil intercepta una carta con varios proyectiles y una amenaza de muerte dirigida a Pablo Iglesias,El Mundo,2021-04-28
+176,balas,0,Feijóo censura que se haga campaña en Madrid con Correos y se pregunta cómo se detecta ántrax y no balas,ABC,2021-04-29
+174,bala,0,Una bala en la urna,ABC,2021-04-29
+156,luchar,0,El PSOE da otro bandazo en la campaña y Gabilondo ya sólo lucha por el liderazgo de la izquierda,El Español,2021-04-29
+155,franco,0,La Fundación Franco cuenta con Vox para evitar su ilegalización,La Razón,2021-04-29
+154,golpe,0,"Iglesias encaja otro golpe de hemeroteca: «No hay que lloriquear por las amenazas», decía en 2019",ABC,2021-04-29
+201,balas,0,"El autor de las cartas con balas a Iglesias, Marlaska y Gámez usó una plantilla para ocultar su caligrafía",El Español,2021-04-29
+152,lucha,0,El PSOE da otro bandazo en la campaña y Gabilondo ya sólo lucha por el liderazgo de la izquierda,El Español,2021-04-29
+151,fascista,1,"""Traidor, amargada, rata, fascista"": Cs despliega una lona y pide que vuelva ""el Madrid de la concordia""",El Español,2021-04-29
+150,terrorismo,0,Pablo Echenique acusa a Ayuso de “justificar” el terrorismo al decir que Iglesias “nació del mal para hacer el mal”,La Razón,2021-04-29
+149,batalla,1,Podcast ‘La batalla por Madrid’ | Ep. 9: ¿Es Madrid un paraíso fiscal?,El País,2021-04-29
+153,criminal,1,Falsedades y medias verdades en campaña | De la inexistente condena al PP por ‘organización criminal’ al supuesto mejor hospital de pandemias del mundo,El País,2021-04-29
+184,balas,0,De balas y cañas,El País,2021-04-30
+197,balas,1,"Monedero: ""Frente a sus balas, nuestros votos. Si ganamos es porque Iglesias bajó a Madrid""",El Español,2021-04-30
+171,franco,0,"Ábalos compara a Ayuso con Franco y dice que Madrid ""es lo más parecido a una dictadura""",El Español,2021-04-30
+169,dictadura,1,"Ábalos compara a Ayuso con Franco y dice que Madrid ""es lo más parecido a una dictadura""",El Español,2021-04-30
+170,lucha,0,La lucha por el voto de Ciudadanos: en estos 13 distritos y 10 municipios se juega el destino de Madrid,El Español,2021-04-30
+167,batalla,1,‘Podcast’ ‘La batalla por Madrid’ | Ep. 10: Lucha de gigantes,El País,2021-04-30
+166,lucha,0,‘Podcast’ ‘La batalla por Madrid’ | Ep. 10: Lucha de gigantes,El País,2021-04-30
+164,régimen,0,Elecciones Madrid | Ábalos compara el Madrid de Ayuso con el régimen franquista,El Confidencial,2021-04-30
+163,franquista,0,Elecciones Madrid | Ábalos compara el Madrid de Ayuso con el régimen franquista,El Confidencial,2021-04-30
+162,dictaduras,0,Falsedades y medias verdades en campaña | De las mentiras del voto por correo de Vox al bulo sobre las dictaduras comunistas,El País,2021-04-30
+158,franquismo,0,Iglesias equipara la libertad que pide Ayuso con la época del franquismo,La Razón,2021-04-30
+168,arremete,0,"Ábalos arremete contra Ayuso por sus ""ocurrencias alocadas"" y por mantener ""una relación impúdica con la ultraderecha""",El Mundo,2021-04-30
+161,comunistas,0,Falsedades y medias verdades en campaña | De las mentiras del voto por correo de Vox al bulo sobre las dictaduras comunistas,El País,2021-04-30
+179,muertos,0,"Así fue el tapón a las residencias de mayores de Madrid, hospital por hospital: el 73% de muertos no fue trasladado a un centro médico",El País,2021-05-01
+185,matones,1,"Casado arremete contra Iglesias: ""No sólo le pagamos la niñera, sino a matones que patean a la Policía""",El Mundo,2021-05-01
+186,arremete,0,"Casado arremete contra Iglesias: ""No sólo le pagamos la niñera, sino a matones que patean a la Policía""",El Mundo,2021-05-01
+193,matones,1,Isabel Díaz Ayuso carga contra Iglesias por contratar “matones” para agredir a policías,La Razón,2021-05-01
+194,hitler,0,Los libros de la semana: del desencuentro entre Hitler y Mussolini a la fina comedia de Eduardo Mendoza,La Razón,2021-05-01
