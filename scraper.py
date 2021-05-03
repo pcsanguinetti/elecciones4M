@@ -14,8 +14,9 @@ elmundo = Diario("El Mundo", "https://www.elmundo.es/elecciones/elecciones-madri
 razon = Diario("La Razón", "https://www.larazon.es/tags/elecciones-comunidad-de-madrid/", tag="article")
 diarioes = Diario("eldiario.es", "https://www.eldiario.es/temas/elecciones-madrid-2021/", class_="ni-title")
 espanol = Diario("El Español", "https://www.elespanol.com/temas/elecciones_comunidad_madrid_4m/", complemento_url="https://www.elespanol.com", tag="article")
+publico = Diario("Público", "https://www.publico.es/tag/elecciones-madrid/", complemento_url="https://www.publico.es/", tag="article")
 
-diarios = [confi, abc, elpais, elmundo, razon, diarioes, espanol]
+diarios = [confi, abc, elpais, elmundo, razon, diarioes, espanol, publico]
 
 todos_antes = len(todos)
 belicas_antes = len(belicas)
